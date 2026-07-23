@@ -529,6 +529,7 @@ The results show a clear relationship between the project's risk classification 
 This provides initial evidence that the risk framework is useful for identifying employee groups with elevated historical attrition. However, the risk score should be treated as an analytical segmentation tool rather than a predictive model or probability of individual employee departure.
 
 
+
 ---
 
 # 💡 HR Recommendations
