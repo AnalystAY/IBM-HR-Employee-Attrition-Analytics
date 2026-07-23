@@ -1,7 +1,5 @@
 # 💡 HR Recommendations
 
-Recommendations should be aligned with the final analysis results.
-
 ### 1. Review Overtime and Workload
 
 Where overtime is strongly associated with attrition, HR should review workload distribution, staffing levels, and employee burnout risks.
